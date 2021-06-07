@@ -17,7 +17,7 @@
 ------------------
 관심직업 
 * 게임 프로그래머
-* **소프트웨어 QA**            ![qa사진](what-is-software-quality-assurance.jpg)   <img scr=what-is-software-quality-assurance.jpg height=50 width=50>
+* **소프트웨어 QA**            ![qa사진](what-is-software-quality-assurance.jpg)   <img scr=what-is-software-quality-assurance.jpg height=20 width=20>
 * 판테크 전문가   
 
 -------------------
